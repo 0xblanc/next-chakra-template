@@ -1,8 +1,15 @@
 # Next Chakra Starter
 
 ## Description
+A Next 13 template with Chakra UI, TailwindCSS, Redux Toolkit, and TypeScript. Eslint, Prettier, and Husky are also included for code linting and formatting.
 
 ## Table of Contents
+- [File Structure](#file-structure)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Implementation](#implementation)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## File Structure
 ```
@@ -66,10 +73,29 @@
 ```
 
 ## Prerequisites
+- [Node.js](https://nodejs.org/en/)
 
 ## Installation
+Run the command below to install the dependencies
+```bash
+npm install
+```
 
 ## Implementation
+Run the command below to start the development server
+```bash
+npm run dev
+```
+
+Run the command below to build the project
+```bash
+npm run build
+```
+
+Run the command below to start the production server
+```bash
+npm run start
+```
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -82,3 +108,4 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 ## License
+This library is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file
